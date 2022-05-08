@@ -49,7 +49,7 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?user=DUOsSiAAAAAJ&hl=en&oi=ao
-  - icon: tag
+  - icon: people-group
     icon_pack: fas
     link: https://bsys.hiroshima-u.ac.jp/en
 
