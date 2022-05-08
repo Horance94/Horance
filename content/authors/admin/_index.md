@@ -6,7 +6,7 @@ title: Ziqiang Xu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,8 +27,8 @@ education:
   courses:
     - course: PhD in System Cybernetics
       institution: Hiroshima University
-      year: 2022
-    - course: MEng in Pattern Recognition & Intelligent Systems
+      year: 2022 (Graduate expected in September, 2022)
+    - course: MEng in Pattern Recognition & Intelligent System
       institution: University of Science and Technology of China
       year: 2019
     - course: BSc in Electrical Engineering & Automation
