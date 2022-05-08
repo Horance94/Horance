@@ -43,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'ziqiangxu@hiroshima-u.ac.jp'
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-6258-6076
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ziqiangxu23
