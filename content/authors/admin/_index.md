@@ -50,7 +50,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?user=DUOsSiAAAAAJ&hl=en&oi=ao
   - icon: tag
-    icon_pack: fab
+    icon_pack: fas
     link: https://bsys.hiroshima-u.ac.jp/en
 
 # Link to a PDF of your resume/CV.
