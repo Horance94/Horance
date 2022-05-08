@@ -19,7 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Biomedical signal processing
-  - Noninvasive neural activity monitoring
+  - Non-invasive neurosensing technology
+  - Cardiovascular monitoring
   - Wearables
 
 # Education to show in About widget
