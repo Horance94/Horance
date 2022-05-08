@@ -45,10 +45,10 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ziqiangxu23
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=DUOsSiAAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
