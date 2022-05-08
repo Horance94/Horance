@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph.D. Candidate
       institution: Hiroshima University
-      year: 2019-Now (Graduate expected in September, 2022)
+      year: 2019--Now (Graduate expected in September, 2022)
     - course: MEng in Pattern Recognition & Intelligent System
       institution: University of Science and Technology of China
       year: 2019
