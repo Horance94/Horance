@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in System Cybernetics
+      institution: Hiroshima University
+      year: 2022
+    - course: MEng in Pattern Recognition & Intelligent Systems
+      institution: University of Science and Technology of China
+      year: 2019
+    - course: BSc in Electrical Engineering & Automation
+      institution: China University of Mining & Technology-Beijing
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
