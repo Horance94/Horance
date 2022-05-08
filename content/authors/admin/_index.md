@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    email: 'ziqiangxu@hiroshima-u.ac.jp'
+    link: mailto:ziqiangxu@hiroshima-u.ac.jp
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-6258-6076
