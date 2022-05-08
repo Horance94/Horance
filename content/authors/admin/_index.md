@@ -42,14 +42,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'ziqiangxu@hiroshima-u.ac.jp'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ziqiangxu23
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?user=DUOsSiAAAAAJ&hl=en&oi=ao
-  - icon: fa-solid fa-tag
+  - icon: tag
     icon_pack: fab
     link: https://bsys.hiroshima-u.ac.jp/en
 
