@@ -35,9 +35,6 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 
-# Automatically link email and phone or display as text?
-autolink: true
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,7 +42,8 @@ autolink: true
 social:
   - icon: envelope
     icon_pack: fas
-    link: ziqiangxu@hiroshima-u.ac.jp
+    emain: 'ziqiangxu@hiroshima-u.ac.jp'
+    autolink: true
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-6258-6076
