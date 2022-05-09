@@ -15,9 +15,9 @@ authors:
   - Toshio Tsuji
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
 date: '2021-11-01T00:00:00Z'
 doi: '10.1109/EMBC46164.2021.9629926'
