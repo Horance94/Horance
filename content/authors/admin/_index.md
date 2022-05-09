@@ -74,6 +74,6 @@ email: 'ziqiangxu@hiroshima-u.ac.jp'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ziqiang Xu is a Ph.D. candidate in the Department of System Cybernetics at Hiroshima University. He focuses on the autonomic nervous system and develops biomedical signal processing techniques to sense its activity in a non-invasive way for clinical diagnostic support and daily healthcare. He is also a member of the Biological Systems Engineering Lab at Hiroshima University, which works on biological signal analysis and its applications in human interfaces, medical devices, etc.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
