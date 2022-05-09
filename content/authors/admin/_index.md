@@ -32,7 +32,7 @@ education:
     - course: MEng in Pattern Recognition & Intelligent System
       institution: University of Science and Technology of China
       year: 2019
-    - course: BSc in Electrical Engineering & Automation
+    - course: BE in Electrical Engineering & Automation
       institution: China University of Mining & Technology-Beijing
       year: 2016
 
