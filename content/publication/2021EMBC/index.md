@@ -1,23 +1,29 @@
 ---
-title: 'An example conference paper'
+title: 'Pressure-based Detection of Heart and Respiratory Rates from Human Body Surface using a Biodegradable Piezoelectric Sensor'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Akira Furui
+  - Shumma Jomyo
+  - Toshiki Sakagawa
+  - Masanori Morita
+  - Tsutomu Takai
+  - Masamichi Ando
+  - Toshio Tsuji
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-11-01T00:00:00Z'
+doi: '10.1109/EMBC46164.2021.9629926'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '20121-11-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +32,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*
+publication_short: In *IEEE EMBC 2021*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study investigates the relationship between respiration and autonomic nervous system (ANS) activity and proposes a parallel detection method that can simultaneously extract the heart rate (HR) and respiration rate (RR) from different pulse waves measured using a novel biodegradable piezoelectric sensor. The synchronous changes in heart rate variability and respiration reveal the interaction between respiration and the cardiovascular system and their interconnection with ANS activity. Following this principle, respiration was extracted from the HR calculated beat-by-beat from pulse waves. Pulse waves were measured using multiple biodegradable piezoelectric sensors each attached to the human body surface. The Valsalva maneuver experiment was conducted on seven healthy young adults, and the extracted respiratory wave was compared with a reference respiratory wave measured simultaneously. The experimental results are consistent with the observations from reference waves, where <i>R<i><sup>2</sup> = 0.9506, <i>p<i> < 0.001 for the extracted RR and the reference RR, thus demonstrating the detection capability under different respiratory statuses.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
