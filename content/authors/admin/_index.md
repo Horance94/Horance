@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. Candidate
+    - course: Ph.D. Candidate in System Cybernetics
       institution: Hiroshima University
       year: 2019-Now (Graduate expected in September, 2022)
     - course: MEng in Pattern Recognition & Intelligent System
