@@ -44,9 +44,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:ziqiangxu@hiroshima-u.ac.jp
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-6258-6076
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ziqiangxu23
@@ -56,6 +53,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Ziqiang-Xu-6
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-6258-6076
   - icon: user
     icon_pack: fas
     link: https://bsys.hiroshima-u.ac.jp/en
