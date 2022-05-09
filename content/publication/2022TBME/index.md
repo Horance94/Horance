@@ -6,9 +6,9 @@ title: 'Beat-to-beat Estimation of Peripheral Arterial Stiffness from Local PWV 
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Toshiki Sakagawa
   - Akira Furui
   - Shumma Jomyo
-  - Toshiki Sakagawa
   - Masanori Morita
   - Masamichi Ando
   - Toshio Tsuji
