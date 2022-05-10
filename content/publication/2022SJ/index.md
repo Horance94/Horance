@@ -43,7 +43,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: [Non-invasive neurosensing]
 
 # Display this page in the Featured widget?
-featured: True
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
