@@ -39,7 +39,7 @@ abstract: Respiration can modulate the cardiovascular system through the autonom
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Non-invasive neurosensing]
+tags: [Wearables]
 
 # Display this page in the Featured widget?
 featured: False
